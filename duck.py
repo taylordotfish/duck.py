@@ -41,9 +41,9 @@ orig_buffer = None
 
 weechat.register(
     "shoottheduckquack",
-    "unknown",
+    "taylor.fish",
     "0.1",
-    "no",
+    "GPL3",
     "shoot the duck QUACK!",
     "",
     "",
