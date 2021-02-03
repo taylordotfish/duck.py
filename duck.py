@@ -2,9 +2,8 @@
 # with assistance from nc Krantz-Fire (https://pineco.net/)
 #
 # This program is free software: you can redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by
-# the Free Software Foundation, either version 3 of the License, or
-# (at your option) any later version.
+# it under the terms of version 3 of the GNU General Public License as
+# published by the Free Software Foundation.
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -13,7 +12,7 @@
 #
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
+#
 # This program was based off of code from duck.vbs, a file distributed
 # with NO5 IRC <https://fioresoft.net/download3.php> and licensed under
 # version 3 of the GNU General Public License as published by the
@@ -24,6 +23,11 @@
 #
 #   NO5 IRC was made by Fernando Fiore.
 #   All rights to https://Fioresoft.net
+#
+# Additionally, all code in this program that is not a derived work of
+# duck.vbs is also licensed under your choice of any version later than
+# version 3 of the GNU General Public License as published by the Free
+# Software Foundation, in addition to version 3 itself.
 
 from collections import defaultdict
 import json
