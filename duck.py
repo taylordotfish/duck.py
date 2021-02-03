@@ -1,5 +1,4 @@
 # Copyright (C) 2020 taylor.fish <contact@taylor.fish>
-#
 # with assistance from nc Krantz-Fire (https://pineco.net/)
 #
 # This program is free software: you can redistribute it and/or modify
