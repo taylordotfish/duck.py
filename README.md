@@ -12,8 +12,8 @@ License
 -------
 
 duck.py is licensed under version 3 of the GNU General Public License.
-Additionally, all code in duck.py that is not a derived work of duck.vbs is
-also licensed under any version later than version 3 of the GNU General Public
-License, in addition to version 3 itself. See the copyright and license header
-in [duck.py](duck.py) for more information, and see [LICENSE](LICENSE) for a
-copy of the GPL.
+Additionally, all modifications and additions in this repository compared to
+the original duck.vbs are also licensed under any version later than version 3
+of the GNU General Public License, in addition to version 3 itself. See the
+copyright and license header in [duck.py](duck.py) for more information, and
+see [LICENSE](LICENSE) for a copy of the GPL.

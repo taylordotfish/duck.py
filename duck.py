@@ -24,10 +24,10 @@
 #   NO5 IRC was made by Fernando Fiore.
 #   All rights to https://Fioresoft.net
 #
-# Additionally, all code in this program that is not a derived work of
-# duck.vbs is also licensed under your choice of any version later than
-# version 3 of the GNU General Public License as published by the Free
-# Software Foundation, in addition to version 3 itself.
+# Additionally, all modifications and additions in this program compared to
+# the original duck.vbs are also licensed under your choice of any version
+# later than version 3 of the GNU General Public License as published by the
+# Free Software Foundation, in addition to version 3 itself.
 
 from collections import defaultdict
 import json
